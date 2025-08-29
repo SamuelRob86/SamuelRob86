@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **samuel.rob6@gmail.com**
 
-- 💬 Connect? Lets get social @ **<will add LinkedIn Shortly**
+- 💬 Connect? Lets get social @ **<will add LinkedIn Shortly>**
 
 
 
