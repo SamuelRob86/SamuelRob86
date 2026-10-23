@@ -5,7 +5,7 @@
 
 - 📚 I’m studying Computer Science
 
-- 🤔 I use daily .cs, .cpp, .HTML
+- 🤔 I use  .cs, .cpp, .HTML, .css, .js, .py,
 
 - 👨🏻‍💻 Love programming and resolving problems
 
